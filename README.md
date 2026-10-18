@@ -2,9 +2,9 @@
 
 # Luis Henrique Oliveira de Jesus
 
-### Estudante de Computação @ UFG | Desenvolvedor de Software
+### Estudante de Engenharia de Software @ UFG | Desenvolvedor de Software
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Computa%C3%A7%C3%A3o+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=333333&vCenter=true&width=550&height=40)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=333333&vCenter=true&width=550&height=40)](https://github.com/DenverCoder1/readme-typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Luis-Henrique-ufg&label=Views&color=555555&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Luis-Henrique-ufg?color=555555&style=flat-square)
@@ -14,7 +14,7 @@
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=Luis-Henrique-ufg&hide_border=true&show_icons=true&count_private=true&bg_color=ffffff00" alt="GitHub Stats" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 📌 Projetos em Destaque
+### Projetos em Destaque
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 ---
 
-### 📬 Contato
+### Contato
 
 <div align="center">
 
