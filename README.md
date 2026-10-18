@@ -1,11 +1,11 @@
 <div align="center">
 
-# Luis Henrique Oliveira de Jesus
+# Luis Henrique
 
-### Estudante de Engenharia de Software @ UFG | Desenvolvedor de Software
+### Estudante de Engenharia de Software @UFG
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=E6EDF3&vCenter=true&width=550&height=40" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+Universidade+Federal+de+Goiás;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=E6EDF3&vCenter=true&width=550&height=40" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=24292F&vCenter=true&width=550&height=40" />
   <img src="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=E6EDF3&vCenter=true&width=550&height=40" alt="Typing SVG" />
 </picture>
