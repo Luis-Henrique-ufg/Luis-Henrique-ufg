@@ -5,14 +5,14 @@
 ### Estudante de Engenharia de Software @UFG
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+Universidade+Federal+de+Goi%C3%A1s;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=E6EDF3&vCenter=true&width=630&height=40" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+Universidade+Federal+de+Goi%C3%A1s;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=24292F&vCenter=true&width=630&height=40" />
-  <img src="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+Universidade+Federal+de+Goi%C3%A1s;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=E6EDF3&vCenter=true&width=630&height=40" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+-+Universidade+Federal+de+Goi%C3%A1s;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=16&color=E6EDF3&vCenter=true&width=700&height=40" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+-+Universidade+Federal+de+Goi%C3%A1s;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=16&color=24292F&vCenter=true&width=700&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+-+Universidade+Federal+de+Goi%C3%A1s;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=16&color=E6EDF3&vCenter=true&width=700&height=40" alt="Typing SVG" />
 </picture>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Luis-Henrique-ufg&label=Views&color=0969da&style=flat-square)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=Luis-Henrique-ufg&label=Views&labelColor=555555&countColor=0969da&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Luis-Henrique-ufg?color=0969da&style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/Luis-Henrique-ufg?color=0969da&style=flat-square)
 
