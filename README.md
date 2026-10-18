@@ -4,11 +4,17 @@
 
 ### Estudante de Engenharia de Software @ UFG | Desenvolvedor de Software
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=333333&vCenter=true&width=550&height=40)](https://github.com/DenverCoder1/readme-typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=E6EDF3&vCenter=true&width=550&height=40" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=24292F&vCenter=true&width=550&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Engenharia+de+Software+%40+UFG;Desenvolvedor+de+Software;JavaScript+%7C+TypeScript+%7C+C+%7C+Go&font=Fira+Code&size=18&color=E6EDF3&vCenter=true&width=550&height=40" alt="Typing SVG" />
+</picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Luis-Henrique-ufg&label=Views&color=555555&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/Luis-Henrique-ufg?color=555555&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/Luis-Henrique-ufg?color=555555&style=flat-square)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Luis-Henrique-ufg&label=Views&color=0969da&style=flat-square)
+![GitHub Followers](https://img.shields.io/github/followers/Luis-Henrique-ufg?color=0969da&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/Luis-Henrique-ufg?color=0969da&style=flat-square)
 
 </div>
 
@@ -17,15 +23,11 @@
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=Luis-Henrique-ufg&hide_border=true&show_icons=true&count_private=true&bg_color=ffffff00" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=Luis-Henrique-ufg&layout=compact&hide_border=true&bg_color=ffffff00" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Luis-Henrique-ufg&hide_border=true&background=ffffff00" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-mu.vercel.app/api?username=Luis-Henrique-ufg&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-mu.vercel.app/api?username=Luis-Henrique-ufg&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da" />
+    <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=Luis-Henrique-ufg&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+  </picture>
 </p>
 
 ---
