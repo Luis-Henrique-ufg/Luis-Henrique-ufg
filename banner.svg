@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#bc8cff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#79c0ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="848" height="178" x="1" y="1" rx="10" fill="#0d1117" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <!-- Terminal Header Buttons -->
+  <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="54" cy="18" r="5" fill="#27c93f"/>
+  <text x="425" y="22" text-anchor="middle" fill="#8b949e" font-family="Courier New, monospace" font-size="12">luis@ufg:~ (bash)</text>
+
+  <line x1="1" y1="34" x2="849" y2="34" stroke="#30363d" stroke-width="1"/>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12" fill="url(#textGrad)" xml:space="preserve">
+    <text x="425" y="60" text-anchor="middle">    __    __  ___________    __  _________   ______  ________  __  ________</text>
+    <text x="425" y="75" text-anchor="middle">   / /   / / / /  _/ ___/   / / / / ____/ | / / __ \/  _/ __ \/ / / / ____/</text>
+    <text x="425" y="90" text-anchor="middle">  / /   / / / // / \__ \   / /_/ / __/ /  |/ / /_/ // // / / / / / / __/   </text>
+    <text x="425" y="105" text-anchor="middle"> / /___/ /_/ // / ___/ /  / __  / /___/ /|  / _, _// // /_/ / /_/ / /___   </text>
+    <text x="425" y="120" text-anchor="middle">/_____/\____/___//____/  /_/ /_/_____/_/ |_/_/ |_/___/\___\_\____/_____/   </text>
+  </g>
+
+  <text x="425" y="152" text-anchor="middle" fill="#8b949e" font-family="Courier New, monospace" font-size="12.5">
+    [ Engenharia de Software @ UFG | Software Developer ]
+  </text>
+</svg>
